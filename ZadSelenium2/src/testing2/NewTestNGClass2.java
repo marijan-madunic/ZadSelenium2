@@ -33,7 +33,7 @@ public class NewTestNGClass2 extends BaseClass2 {
 		
 		driver.findElement(By.id("uploadPicture")).sendKeys(System.getProperty("user.dir")+".\\Photo\\image_photo.jpg");
 		
-		driver.findElement(By.id("currentAddress-label")).click();
+		//driver.findElement(By.id("currentAddress-label")).click();
 		driver.findElement(By.id("currentAddress")).sendKeys("Street");
 		
 		
