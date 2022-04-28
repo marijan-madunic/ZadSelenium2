@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-28T07:48:46 CEST" name="Default suite" finished-at="2022-04-28T07:49:03 CEST" duration-ms="17455">
+  <suite started-at="2022-04-28T08:03:01 CEST" name="Default suite" finished-at="2022-04-28T08:03:16 CEST" duration-ms="15554">
     <groups>
     </groups>
-    <test started-at="2022-04-28T07:48:46 CEST" name="Default test" finished-at="2022-04-28T07:49:03 CEST" duration-ms="17455">
+    <test started-at="2022-04-28T08:03:01 CEST" name="Default test" finished-at="2022-04-28T08:03:16 CEST" duration-ms="15554">
       <class name="testing2.NewTestNGClass2">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T07:48:46 CEST" name="setup" finished-at="2022-04-28T07:48:47 CEST" duration-ms="526" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T08:03:01 CEST" name="setup" finished-at="2022-04-28T08:03:01 CEST" duration-ms="544" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T07:48:47 CEST" name="beforeMethod" finished-at="2022-04-28T07:48:50 CEST" duration-ms="3622" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T08:03:01 CEST" name="beforeMethod" finished-at="2022-04-28T08:03:05 CEST" duration-ms="3332" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="OpenSite()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T07:48:50 CEST" name="OpenSite" finished-at="2022-04-28T07:49:01 CEST" duration-ms="11268" status="PASS">
+        <test-method signature="OpenSite()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T08:03:05 CEST" name="OpenSite" finished-at="2022-04-28T08:03:14 CEST" duration-ms="9692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenSite -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T07:49:02 CEST" name="afterMethod" finished-at="2022-04-28T07:49:03 CEST" duration-ms="1134" status="PASS">
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T08:03:14 CEST" name="afterMethod" finished-at="2022-04-28T08:03:15 CEST" duration-ms="1066" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T07:49:03 CEST" name="cleanUp" finished-at="2022-04-28T07:49:03 CEST" duration-ms="828" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testing2.NewTestNGClass2@6bbe85a8]" started-at="2022-04-28T08:03:15 CEST" name="cleanUp" finished-at="2022-04-28T08:03:16 CEST" duration-ms="839" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
