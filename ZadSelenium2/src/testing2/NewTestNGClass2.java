@@ -18,7 +18,7 @@ public class NewTestNGClass2 extends BaseClass2 {
 		
 
 		driver.findElement(By.id("firstName")).sendKeys("Pero");
-		driver.findElement(By.id("lastName")).sendKeys("Peric");
+		//driver.findElement(By.id("lastName")).sendKeys("Peric");
 		driver.findElement(By.id("userEmail")).sendKeys("Pero@example.com");
 			
 		
